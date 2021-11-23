@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    background-color: #1C86B3;
+    padding: 20px;
+}
+
+.navbar,
+.navbar li {
+    display: inline-block;
+    margin: 0;
+    margin-right: 50px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+h1 {
+    display: inline;
+    color: white;
+}
+
+h2 {
+    color: #1C86B3;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.main p,
+.main button {
+    margin-left: 25px;
+}
+
+.main p {
+    margin-bottom: 1em;
+}
+
+.main button {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border-style:hidden;
+}
+
+#button {
+    border: orange 2px solid;
+    color: orange;
+    text-transform: uppercase;
+}
+
+.main button {
+    color: white;
+    font-weight: bold;
+}
+
+#insta_button {
+    background-color: purple;
+    box-shadow: 1px 1px 1px grey;
+}
+
+#Face_button {
+    background-color: blue;
+    box-shadow: 1px 1px 1px grey;
+}
+
+#YT_button {
+    background-color: red;
+    box-shadow: 1px 1px 1px grey;
+}
+
+.footer_links,
+.footer_links li {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer {
+    background-color: #1C86B3;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.footer li a {
+    color: white;
+    font-size: 18px;
+}
+
